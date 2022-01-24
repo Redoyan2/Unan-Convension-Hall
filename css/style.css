@@ -1,0 +1,45 @@
+
+.nav-container{
+    color: white;
+    margin: 0px 60px;
+}
+.nav-bg{
+    background-color: black;
+    color: white;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.span-color{
+    color: #FA804C;
+    font-weight: 600;
+}
+
+.heading-color{
+    color: #363958;
+}
+
+.my-btn{
+    background-color: #3D4FF3;
+    padding: 7px 15px;
+    color: white;
+    border: none;
+    border-radius: 10px;
+}
+.my-btn-package{
+    padding: 7px 15px;
+    color: #1770f5;
+    border: none;
+    border-radius: 10px;
+}
+.highlight-box-color{
+    background-color: #3F87F5;
+    color: white;
+}
+.footer-bg{
+    background-color: #0B0D17;
+
+    color: white;
+}
